@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{6ececb07-3a29-4936-a2df-5467cd0445df}": {
+      "updates": [
+        {
+          "version": "1.0.5",
+          "update_link": "https://remal1.github.io/vt-helper-addon/vt-helper-1.0.5.xpi"
+        }
+      ]
+    }
+  }
+}
