@@ -17,6 +17,10 @@
         {
           "version": "1.0.7",
           "update_link": "https://remal1.github.io/vt-helper-addon/vt-helper-1.0.7.xpi"
+        },
+        {
+          "version": "1.0.8",
+          "update_link": "https://remal1.github.io/vt-helper-addon/vt-helper-1.0.8.xpi"
         }
       ]
     }
